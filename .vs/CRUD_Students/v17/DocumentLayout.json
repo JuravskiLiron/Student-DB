@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\User\\source\\repos\\CRUD_Students\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\pages\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:pages\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\pages\\user\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:pages\\user\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\data\\crud_studentscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:data\\crud_studentscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\migrations\\20240830135205_ewq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:migrations\\20240830135205_ewq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830131722_st2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240830131722_st2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\migrations\\20240830133952_qwe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:migrations\\20240830133952_qwe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\migrations\\20240830132145_st11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:migrations\\20240830132145_st11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|d:\\users\\user\\source\\repos\\crud_students\\migrations\\20240830132024_st10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59CFE62-50DF-45D7-BF88-A2FE699AC0CA}|CRUD_Students.csproj|solutionrelative:migrations\\20240830132024_st10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Pages\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\User\\Create.cshtml",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Pages\\User\\Create.cshtml",
+              "RelativeToolTip": "Pages\\User\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T13:39:03.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Pages\\User\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\User\\Index.cshtml.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Pages\\User\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\User\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:25:04.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Pages\\User\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\User\\Create.cshtml.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Pages\\User\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\User\\Create.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:12:02.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:06:40.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:53:47.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Pages\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\User\\Index.cshtml",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Pages\\User\\Index.cshtml",
+              "RelativeToolTip": "Pages\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T13:14:12.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240830133952_qwe.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830133952_qwe.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240830133952_qwe.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830133952_qwe.cs",
+              "RelativeToolTip": "Migrations\\20240830133952_qwe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:39:52.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRUD_StudentsContext.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Data\\CRUD_StudentsContext.cs",
+              "RelativeDocumentMoniker": "Data\\CRUD_StudentsContext.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Data\\CRUD_StudentsContext.cs",
+              "RelativeToolTip": "Data\\CRUD_StudentsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:50:17.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240830135205_ewq.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830135205_ewq.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240830135205_ewq.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830135205_ewq.cs",
+              "RelativeToolTip": "Migrations\\20240830135205_ewq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:52:06.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240830132145_st11.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830132145_st11.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240830132145_st11.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830132145_st11.cs",
+              "RelativeToolTip": "Migrations\\20240830132145_st11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:21:45.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240830132024_st10.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830132024_st10.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240830132024_st10.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830132024_st10.cs",
+              "RelativeToolTip": "Migrations\\20240830132024_st10.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:20:24.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240830131722_st2.cs",
+              "DocumentMoniker": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830131722_st2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240830131722_st2.cs",
+              "ToolTip": "D:\\Users\\User\\source\\repos\\CRUD_Students\\Migrations\\20240830131722_st2.cs",
+              "RelativeToolTip": "Migrations\\20240830131722_st2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T13:17:22.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
